@@ -1,1 +1,1 @@
-# Cusztome-segmentation
+# Customer-segmentation
